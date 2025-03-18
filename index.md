@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
-Maquina
+title: Welcome to my blog Maquina
 ---
